@@ -1,0 +1,93 @@
+{
+  "id": "3773664",
+  "name": "blowizer",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "780044",
+      "name": "红包",
+      "font_class": "hongbao",
+      "unicode": "e6da",
+      "unicode_decimal": 59098
+    },
+    {
+      "icon_id": "798128",
+      "name": "我的订单",
+      "font_class": "wodedingdan",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "1354921",
+      "name": "现金贷",
+      "font_class": "xianjindai",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "1727352",
+      "name": "20积分",
+      "font_class": "jifen",
+      "unicode": "e897",
+      "unicode_decimal": 59543
+    },
+    {
+      "icon_id": "6865327",
+      "name": "待付款",
+      "font_class": "daifukuan",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "6865329",
+      "name": "待收货",
+      "font_class": "daishouhuo",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "10791129",
+      "name": "余额 ",
+      "font_class": "yue",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "18480963",
+      "name": "01_会员等级管理",
+      "font_class": "01_huiyuandengjiguanli",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "7712521",
+      "name": "商户管理",
+      "font_class": "shanghuguanli",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "8289042",
+      "name": "主页",
+      "font_class": "zhuye",
+      "unicode": "e873",
+      "unicode_decimal": 59507
+    },
+    {
+      "icon_id": "13645016",
+      "name": "个人",
+      "font_class": "geren",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "13645031",
+      "name": "主页",
+      "font_class": "zhuye1",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    }
+  ]
+}

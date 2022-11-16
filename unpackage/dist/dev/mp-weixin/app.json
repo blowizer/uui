@@ -1,0 +1,47 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/cake/cake",
+    "pages/bread/bread",
+    "pages/food/food",
+    "pages/person/person"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#f1f1f1",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#d8d8d8",
+    "selectedColor": "#444",
+    "list": [
+      {
+        "text": "home",
+        "pagePath": "pages/index/index",
+        "iconPath": "static/logo.png",
+        "selectedIconPath": "static/home.png"
+      },
+      {
+        "text": "cake",
+        "pagePath": "pages/cake/cake",
+        "iconPath": "static/mcht.png",
+        "selectedIconPath": "static/mcht1.png"
+      },
+      {
+        "text": "bread",
+        "pagePath": "pages/bread/bread",
+        "iconPath": "static/Bread.png",
+        "selectedIconPath": "static/Bread.png"
+      },
+      {
+        "text": "person",
+        "pagePath": "pages/person/person",
+        "iconPath": "static/personal.png",
+        "selectedIconPath": "static/personal.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

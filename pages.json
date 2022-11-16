@@ -1,0 +1,107 @@
+{
+	"easycom": {
+		"autoscan": false,
+		"custom": {
+			"^u-(.*)": "uview-ui/components/u-$1/u-$1.vue"
+		}
+	},
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationStyle": "custom"
+				//"navigationBarTitleText": "uni-app"
+			}
+		}
+	    ,{
+            "path" : "pages/cake/cake",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "cake",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/bread/bread",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "bread",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/food/food",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "food",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/person/person",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		//"navigationStyle": "custom",
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#f1f1f1",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#d8d8d8",
+		"selectedColor": "#444",
+		"list": [
+			{
+				"text":"home",
+				"pagePath": "pages/index/index",
+				"iconPath": "static/logo.png",
+				"selectedIconPath": "static/home.png"
+				
+			},
+			{
+				"text":"cake",
+				"pagePath": "pages/cake/cake",
+				"iconPath": "static/mcht.png",
+				"selectedIconPath": "static/mcht1.png"
+				
+			},
+			{
+				"text":"bread",
+				"pagePath": "pages/bread/bread",
+				"iconPath": "static/Bread.png",
+				"selectedIconPath": "static/Bread.png"
+				
+			},
+			{
+				"text":"person",
+				"pagePath": "pages/person/person",
+				"iconPath": "static/personal.png",
+				"selectedIconPath": "static/personal.png"
+				
+			}
+			
+		]
+	},
+	"uniIdRouter": {},
+	"usingComponts": true,
+	"condition" : { //模式配置，仅开发期间生效
+		"current": 0, //当前激活的模式(list 的索引项)
+		"list": [
+			{
+				"name": "表单", //模式名称
+				"path": "/pages/component/form", //启动页面，必选
+				"query": "" //启动参数，在页面的onLoad函数里面得到
+			}
+		]
+	}
+}

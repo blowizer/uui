@@ -1,0 +1,1 @@
+<view><u-tag vue-id="cea69964-1" text="标签" plain="{{true}}" size="mini" type="warning" bind:__l="__l"></u-tag><u-rate vue-id="cea69964-2" count="4" bind:__l="__l"></u-rate></view>
