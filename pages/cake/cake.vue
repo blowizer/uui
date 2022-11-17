@@ -1,6 +1,6 @@
 <template>
 	<view class="cont">
-	<view class="cake-item" v-for="(item,index) in 8"v-bind:key ="index">
+	<view class="cake-item" v-for="(item,index) in 8" :key="index" @click="handleDetail(index)">
 		<view class="poster">			
 		</view>
 		<view class="info-cont">
@@ -30,6 +30,12 @@
 			}
 		},
 		methods: {
+			handleDetail(idx){
+				console.log(idx)
+				uni.navigateTo({
+					url:'../detail/detail?idx='+idx 
+				})
+			}
 			
 		}
 	}
@@ -39,7 +45,7 @@
 	.cont{
 		display: flex;
 		flex-wrap: wrap;
-		padding: 5upx;
+		padding: 15upx;
 		justify-content: space-between;
 	}
 	.cake-item{

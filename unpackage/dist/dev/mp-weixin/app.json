@@ -4,7 +4,8 @@
     "pages/cake/cake",
     "pages/bread/bread",
     "pages/food/food",
-    "pages/person/person"
+    "pages/person/person",
+    "pages/detail/detail"
   ],
   "subPackages": [],
   "window": {
@@ -43,5 +44,7 @@
       }
     ]
   },
-  "usingComponents": {}
+  "usingComponents": {
+    "test-my-comp": "/components/test-my-comp"
+  }
 }

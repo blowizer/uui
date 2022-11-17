@@ -4372,7 +4372,7 @@ scroll-view.cu-steps .cu-item {
 .cont {
   display: flex;
   flex-wrap: wrap;
-  padding: 5rpx;
+  padding: 15rpx;
   justify-content: space-between;
 }
 .cake-item {

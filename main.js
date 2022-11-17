@@ -5,6 +5,8 @@ import Vue from 'vue'
 
 import uView from 'uview-ui'
 Vue.use(uView)
+import myComp from 'components/test-my-comp.vue'
+Vue.component('test-my-comp',myComp)
 Vue.config.productionTip = false
 App.mpType = 'app'
 const app = new Vue({

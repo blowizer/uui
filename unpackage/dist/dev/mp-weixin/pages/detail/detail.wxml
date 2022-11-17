@@ -1,0 +1,1 @@
+<view>商品详情<button type="primary" data-event-opts="{{[['tap',[['handleBack',['$event']]]]]}}" bindtap="__e">返回</button><button type="default" data-event-opts="{{[['tap',[['handleHome',['$event']]]]]}}" bindtap="__e">主页</button><test-my-comp vue-id="3db16520-1" name="wbl" bind:__l="__l"></test-my-comp></view>

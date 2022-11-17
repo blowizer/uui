@@ -132,44 +132,62 @@ __webpack_require__.r(__webpack_exports__);
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0; //
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-var _default =
-{
-  data: function data() {
-    return {
-      title: 'Hello' };
+Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;
 
-  },
-  onLoad: function onLoad() {
 
-  },
-  methods: {} };exports.default = _default;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var _testBus = _interopRequireDefault(__webpack_require__(/*! ../../bus/testBus.js */ 230));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };} //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+var _default = { data: function data() {return { title: 'Hello' };}, onLoad: function onLoad() {console.log('home page on load');_testBus.default.$on('sendData', function (data) {console.log(data);});}, methods: {} };exports.default = _default;
 
 /***/ }),
 

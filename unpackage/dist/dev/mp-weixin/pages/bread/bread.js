@@ -98,10 +98,10 @@ var components
 try {
   components = {
     uTag: function() {
-      return Promise.all(/*! import() | node-modules/uview-ui/components/u-tag/u-tag */[__webpack_require__.e("common/vendor"), __webpack_require__.e("node-modules/uview-ui/components/u-tag/u-tag")]).then(__webpack_require__.bind(null, /*! uview-ui/components/u-tag/u-tag.vue */ 175))
+      return Promise.all(/*! import() | node-modules/uview-ui/components/u-tag/u-tag */[__webpack_require__.e("common/vendor"), __webpack_require__.e("node-modules/uview-ui/components/u-tag/u-tag")]).then(__webpack_require__.bind(null, /*! uview-ui/components/u-tag/u-tag.vue */ 181))
     },
     uRate: function() {
-      return Promise.all(/*! import() | node-modules/uview-ui/components/u-rate/u-rate */[__webpack_require__.e("common/vendor"), __webpack_require__.e("node-modules/uview-ui/components/u-rate/u-rate")]).then(__webpack_require__.bind(null, /*! uview-ui/components/u-rate/u-rate.vue */ 208))
+      return Promise.all(/*! import() | node-modules/uview-ui/components/u-rate/u-rate */[__webpack_require__.e("common/vendor"), __webpack_require__.e("node-modules/uview-ui/components/u-rate/u-rate")]).then(__webpack_require__.bind(null, /*! uview-ui/components/u-rate/u-rate.vue */ 189))
     }
   }
 } catch (e) {
@@ -158,21 +158,50 @@ __webpack_require__.r(__webpack_exports__);
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0; //
-//
-//
-//
-//
-//
-//
-var _default =
-{
-  data: function data() {
-    return {};
+Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;
 
 
+
+
+
+
+
+
+
+
+
+
+
+var _testBus = _interopRequireDefault(__webpack_require__(/*! ../../bus/testBus.js */ 230));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };} //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+var myComp = function myComp() {__webpack_require__.e(/*! require.ensure | components/test-my-comp */ "components/test-my-comp").then((function () {return resolve(__webpack_require__(/*! ../../components/test-my-comp.vue */ 225));}).bind(null, __webpack_require__)).catch(__webpack_require__.oe);};var _default = { data: function data() {return { num: 100 };}, methods: { handleNum: function handleNum(n) {console.log(n);this.num += n;}, handleSend: function handleSend() {
+      console.log('handle send');
+      _testBus.default.$emit('sendData', {
+        msg: 'hello',
+        num: 1234 });
+
+    } },
+
+
+  onLoad: function onLoad() {
+    console.log('bread page');
   },
-  methods: {} };exports.default = _default;
+  created: function created() {
+    console.log('bread page in created');
+  },
+  components: {
+    'my-comp': myComp } };exports.default = _default;
 
 /***/ }),
 

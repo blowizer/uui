@@ -9227,9 +9227,9 @@ function normalizeComponent (
 
 /***/ }),
 /* 12 */
-/*!***********************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/index.js ***!
-  \***********************************************************************/
+/*!****************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/index.js ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9316,9 +9316,9 @@ var install = function install(Vue) {
 
 /***/ }),
 /* 13 */
-/*!**********************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/mixin/mixin.js ***!
-  \**********************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/mixin/mixin.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9485,9 +9485,9 @@ var install = function install(Vue) {
 
 /***/ }),
 /* 14 */
-/*!************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/mixin/mpMixin.js ***!
-  \************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/mixin/mpMixin.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9500,9 +9500,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 15 */
-/*!*****************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/luch-request/index.js ***!
-  \*****************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/luch-request/index.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9513,9 +9513,9 @@ _Request.default;exports.default = _default;
 
 /***/ }),
 /* 16 */
-/*!************************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/luch-request/core/Request.js ***!
-  \************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/luch-request/core/Request.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9721,9 +9721,9 @@ Request = /*#__PURE__*/function () {
 
 /***/ }),
 /* 17 */
-/*!********************************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/luch-request/core/dispatchRequest.js ***!
-  \********************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/luch-request/core/dispatchRequest.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9734,9 +9734,9 @@ function _default(config) {return (0, _index.default)(config);};exports.default 
 
 /***/ }),
 /* 18 */
-/*!**************************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/luch-request/adapters/index.js ***!
-  \**************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/luch-request/adapters/index.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9842,9 +9842,9 @@ function _default(config) {return new Promise(function (resolve, reject) {
 
 /***/ }),
 /* 19 */
-/*!****************************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/luch-request/helpers/buildURL.js ***!
-  \****************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/luch-request/helpers/buildURL.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9921,9 +9921,9 @@ function buildURL(url, params) {
 
 /***/ }),
 /* 20 */
-/*!*****************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/luch-request/utils.js ***!
-  \*****************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/luch-request/utils.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10062,9 +10062,9 @@ function isUndefined(val) {
 
 /***/ }),
 /* 21 */
-/*!******************************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/luch-request/core/buildFullPath.js ***!
-  \******************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/luch-request/core/buildFullPath.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10092,9 +10092,9 @@ function buildFullPath(baseURL, requestedURL) {
 
 /***/ }),
 /* 22 */
-/*!*********************************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/luch-request/helpers/isAbsoluteURL.js ***!
-  \*********************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/luch-request/helpers/isAbsoluteURL.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10116,9 +10116,9 @@ function isAbsoluteURL(url) {
 
 /***/ }),
 /* 23 */
-/*!*******************************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/luch-request/helpers/combineURLs.js ***!
-  \*******************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/luch-request/helpers/combineURLs.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10140,9 +10140,9 @@ function combineURLs(baseURL, relativeURL) {
 
 /***/ }),
 /* 24 */
-/*!***********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/luch-request/core/settle.js ***!
-  \***********************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/luch-request/core/settle.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10166,9 +10166,9 @@ function settle(resolve, reject, response) {var
 
 /***/ }),
 /* 25 */
-/*!***********************************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/luch-request/core/InterceptorManager.js ***!
-  \***********************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/luch-request/core/InterceptorManager.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10226,9 +10226,9 @@ InterceptorManager;exports.default = _default;
 
 /***/ }),
 /* 26 */
-/*!****************************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/luch-request/core/mergeConfig.js ***!
-  \****************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/luch-request/core/mergeConfig.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10339,9 +10339,9 @@ function _default(globalsConfig) {var config2 = arguments.length > 1 && argument
 
 /***/ }),
 /* 27 */
-/*!*************************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/luch-request/core/defaults.js ***!
-  \*************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/luch-request/core/defaults.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10377,9 +10377,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 28 */
-/*!***********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/luch-request/utils/clone.js ***!
-  \***********************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/luch-request/utils/clone.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12725,9 +12725,9 @@ module.exports = Array.isArray || function (arr) {
 
 /***/ }),
 /* 33 */
-/*!*********************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/util/route.js ***!
-  \*********************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/util/route.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13648,9 +13648,9 @@ if (hadRuntime) {
 
 /***/ }),
 /* 37 */
-/*!*********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/function/colorGradient.js ***!
-  \*********************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/function/colorGradient.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13791,9 +13791,9 @@ function colorToRgba(color, alpha) {
 
 /***/ }),
 /* 38 */
-/*!************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/function/test.js ***!
-  \************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/function/test.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14088,9 +14088,9 @@ function regExp(o) {
 
 /***/ }),
 /* 39 */
-/*!****************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/function/debounce.js ***!
-  \****************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/function/debounce.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14127,9 +14127,9 @@ debounce;exports.default = _default;
 
 /***/ }),
 /* 40 */
-/*!****************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/function/throttle.js ***!
-  \****************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/function/throttle.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14167,9 +14167,9 @@ throttle;exports.default = _default;
 
 /***/ }),
 /* 41 */
-/*!*************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/function/index.js ***!
-  \*************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/function/index.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14882,9 +14882,9 @@ function setConfig(_ref3)
 
 /***/ }),
 /* 42 */
-/*!*************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/function/digit.js ***!
-  \*************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/function/digit.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15057,9 +15057,9 @@ function enableBoundaryChecking() {var flag = arguments.length > 0 && arguments[
 
 /***/ }),
 /* 43 */
-/*!************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/config.js ***!
-  \************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/config.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15100,9 +15100,9 @@ if (true) {
 
 /***/ }),
 /* 44 */
-/*!***********************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props.js ***!
-  \***********************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15299,9 +15299,9 @@ _upload.default);exports.default = _default;
 
 /***/ }),
 /* 45 */
-/*!***********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/actionSheet.js ***!
-  \***********************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/actionSheet.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15332,9 +15332,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 46 */
-/*!*****************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/album.js ***!
-  \*****************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/album.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15365,9 +15365,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 47 */
-/*!*****************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/alert.js ***!
-  \*****************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/alert.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15395,9 +15395,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 48 */
-/*!******************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/avatar.js ***!
-  \******************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/avatar.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15431,9 +15431,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 49 */
-/*!***********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/avatarGroup.js ***!
-  \***********************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/avatarGroup.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15462,9 +15462,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 50 */
-/*!*******************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/backtop.js ***!
-  \*******************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/backtop.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15496,9 +15496,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 51 */
-/*!*****************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/badge.js ***!
-  \*****************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/badge.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15531,9 +15531,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 52 */
-/*!******************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/button.js ***!
-  \******************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/button.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15581,9 +15581,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 53 */
-/*!********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/calendar.js ***!
-  \********************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/calendar.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15631,9 +15631,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 54 */
-/*!***********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/carKeyboard.js ***!
-  \***********************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/carKeyboard.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15654,9 +15654,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 55 */
-/*!****************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/cell.js ***!
-  \****************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/cell.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15697,9 +15697,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 56 */
-/*!*********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/cellGroup.js ***!
-  \*********************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/cellGroup.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15722,9 +15722,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 57 */
-/*!********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/checkbox.js ***!
-  \********************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/checkbox.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15757,9 +15757,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 58 */
-/*!*************************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/checkboxGroup.js ***!
-  \*************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/checkboxGroup.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15794,9 +15794,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 59 */
-/*!**************************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/circleProgress.js ***!
-  \**************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/circleProgress.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15817,9 +15817,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 60 */
-/*!****************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/code.js ***!
-  \****************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/code.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15846,9 +15846,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 61 */
-/*!*********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/codeInput.js ***!
-  \*********************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/codeInput.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15883,9 +15883,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 62 */
-/*!***************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/col.js ***!
-  \***************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/col.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15910,9 +15910,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 63 */
-/*!********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/collapse.js ***!
-  \********************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/collapse.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15935,9 +15935,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 64 */
-/*!************************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/collapseItem.js ***!
-  \************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/collapseItem.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15968,9 +15968,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 65 */
-/*!************************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/columnNotice.js ***!
-  \************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/columnNotice.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16000,9 +16000,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 66 */
-/*!*********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/countDown.js ***!
-  \*********************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/countDown.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16026,9 +16026,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 67 */
-/*!*******************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/countTo.js ***!
-  \*******************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/countTo.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16059,9 +16059,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 68 */
-/*!**************************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/datetimePicker.js ***!
-  \**************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/datetimePicker.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16103,9 +16103,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 69 */
-/*!*******************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/divider.js ***!
-  \*******************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/divider.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16133,9 +16133,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 70 */
-/*!*****************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/empty.js ***!
-  \*****************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/empty.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16166,9 +16166,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 71 */
-/*!****************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/form.js ***!
-  \****************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/form.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16196,9 +16196,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 72 */
-/*!********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/formItem.js ***!
-  \********************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/formItem.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16227,9 +16227,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 73 */
-/*!***************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/gap.js ***!
-  \***************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/gap.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16254,9 +16254,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 74 */
-/*!****************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/grid.js ***!
-  \****************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/grid.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16279,9 +16279,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 75 */
-/*!********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/gridItem.js ***!
-  \********************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/gridItem.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16303,9 +16303,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 76 */
-/*!****************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/icon.js ***!
-  \****************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/icon.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16347,9 +16347,9 @@ var _config = _interopRequireDefault(__webpack_require__(/*! ../config */ 43));f
 
 /***/ }),
 /* 77 */
-/*!*****************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/image.js ***!
-  \*****************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/image.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16385,9 +16385,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 78 */
-/*!***********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/indexAnchor.js ***!
-  \***********************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/indexAnchor.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16412,9 +16412,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 79 */
-/*!*********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/indexList.js ***!
-  \*********************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/indexList.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16439,9 +16439,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 80 */
-/*!*****************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/input.js ***!
-  \*****************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/input.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16495,9 +16495,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 81 */
-/*!********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/keyboard.js ***!
-  \********************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/keyboard.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16533,9 +16533,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 82 */
-/*!****************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/line.js ***!
-  \****************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/line.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16561,9 +16561,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 83 */
-/*!************************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/lineProgress.js ***!
-  \************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/lineProgress.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16588,9 +16588,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 84 */
-/*!****************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/link.js ***!
-  \****************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/link.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16622,9 +16622,9 @@ var _config = _interopRequireDefault(__webpack_require__(/*! ../config */ 43));f
 
 /***/ }),
 /* 85 */
-/*!****************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/list.js ***!
-  \****************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/list.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16658,9 +16658,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 86 */
-/*!********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/listItem.js ***!
-  \********************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/listItem.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16681,9 +16681,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 87 */
-/*!***********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/loadingIcon.js ***!
-  \***********************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/loadingIcon.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16719,9 +16719,9 @@ var _config = _interopRequireDefault(__webpack_require__(/*! ../config */ 43));f
 
 /***/ }),
 /* 88 */
-/*!***********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/loadingPage.js ***!
-  \***********************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/loadingPage.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16750,9 +16750,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 89 */
-/*!********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/loadmore.js ***!
-  \********************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/loadmore.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16790,9 +16790,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 90 */
-/*!*****************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/modal.js ***!
-  \*****************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/modal.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16828,9 +16828,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 91 */
-/*!******************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/navbar.js ***!
-  \******************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/navbar.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16867,9 +16867,9 @@ var _color = _interopRequireDefault(__webpack_require__(/*! ../color */ 92));fun
 
 /***/ }),
 /* 92 */
-/*!***********************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/color.js ***!
-  \***********************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/color.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16894,9 +16894,9 @@ color;exports.default = _default;
 
 /***/ }),
 /* 93 */
-/*!*********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/noNetwork.js ***!
-  \*********************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/noNetwork.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16919,9 +16919,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 94 */
-/*!*********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/noticeBar.js ***!
-  \*********************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/noticeBar.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16954,9 +16954,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 95 */
-/*!******************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/notify.js ***!
-  \******************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/notify.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16984,9 +16984,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 96 */
-/*!*********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/numberBox.js ***!
-  \*********************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/numberBox.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17027,9 +17027,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 97 */
-/*!**************************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/numberKeyboard.js ***!
-  \**************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/numberKeyboard.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17052,9 +17052,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 98 */
-/*!*******************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/overlay.js ***!
-  \*******************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/overlay.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17078,9 +17078,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 99 */
-/*!*****************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/parse.js ***!
-  \*****************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/parse.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17108,9 +17108,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 100 */
-/*!******************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/picker.js ***!
-  \******************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/picker.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17145,9 +17145,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 101 */
-/*!*****************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/popup.js ***!
-  \*****************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/popup.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17182,9 +17182,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 102 */
-/*!*****************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/radio.js ***!
-  \*****************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/radio.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17217,9 +17217,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 103 */
-/*!**********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/radioGroup.js ***!
-  \**********************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/radioGroup.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17255,9 +17255,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 104 */
-/*!****************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/rate.js ***!
-  \****************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/rate.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17289,9 +17289,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 105 */
-/*!********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/readMore.js ***!
-  \********************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/readMore.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17319,9 +17319,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 106 */
-/*!***************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/row.js ***!
-  \***************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/row.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17344,9 +17344,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 107 */
-/*!*********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/rowNotice.js ***!
-  \*********************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/rowNotice.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17373,9 +17373,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 108 */
-/*!**********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/scrollList.js ***!
-  \**********************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/scrollList.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17401,9 +17401,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 109 */
-/*!******************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/search.js ***!
-  \******************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/search.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17446,9 +17446,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 110 */
-/*!*******************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/section.js ***!
-  \*******************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/section.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17478,9 +17478,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 111 */
-/*!********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/skeleton.js ***!
-  \********************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/skeleton.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17511,9 +17511,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 112 */
-/*!******************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/slider.js ***!
-  \******************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/slider.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17544,9 +17544,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 113 */
-/*!*********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/statusBar.js ***!
-  \*********************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/statusBar.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17567,9 +17567,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 114 */
-/*!*****************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/steps.js ***!
-  \*****************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/steps.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17596,9 +17596,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 115 */
-/*!*********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/stepsItem.js ***!
-  \*********************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/stepsItem.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17622,9 +17622,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 116 */
-/*!******************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/sticky.js ***!
-  \******************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/sticky.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17650,9 +17650,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 117 */
-/*!**********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/subsection.js ***!
-  \**********************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/subsection.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17681,9 +17681,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 118 */
-/*!***********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/swipeAction.js ***!
-  \***********************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/swipeAction.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17704,9 +17704,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 119 */
-/*!***************************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/swipeActionItem.js ***!
-  \***************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/swipeActionItem.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17733,9 +17733,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 120 */
-/*!******************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/swiper.js ***!
-  \******************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/swiper.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17779,9 +17779,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 121 */
-/*!****************************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/swipterIndicator.js ***!
-  \****************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/swipterIndicator.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17806,9 +17806,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 122 */
-/*!******************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/switch.js ***!
-  \******************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/switch.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17838,9 +17838,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 123 */
-/*!******************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/tabbar.js ***!
-  \******************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/tabbar.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17868,9 +17868,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 124 */
-/*!**********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/tabbarItem.js ***!
-  \**********************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/tabbarItem.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17896,9 +17896,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 125 */
-/*!****************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/tabs.js ***!
-  \****************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/tabs.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17936,9 +17936,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 126 */
-/*!***************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/tag.js ***!
-  \***************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/tag.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17973,9 +17973,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 127 */
-/*!****************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/text.js ***!
-  \****************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/text.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18018,9 +18018,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 128 */
-/*!********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/textarea.js ***!
-  \********************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/textarea.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18062,9 +18062,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 129 */
-/*!*****************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/toast.js ***!
-  \*****************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/toast.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18099,9 +18099,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 130 */
-/*!*******************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/toolbar.js ***!
-  \*******************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/toolbar.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18127,9 +18127,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 131 */
-/*!*******************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/tooltip.js ***!
-  \*******************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/tooltip.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18160,9 +18160,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 132 */
-/*!**********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/transition.js ***!
-  \**********************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/transition.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18186,9 +18186,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 133 */
-/*!******************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/props/upload.js ***!
-  \******************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/props/upload.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18230,9 +18230,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 134 */
-/*!************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/config/zIndex.js ***!
-  \************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/config/zIndex.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18259,9 +18259,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 135 */
-/*!****************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/libs/function/platform.js ***!
-  \****************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/_uview-ui@2.0.35@uview-ui/libs/function/platform.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18375,9 +18375,7 @@ platform;exports.default = _default;
 /* 165 */,
 /* 166 */,
 /* 167 */,
-/* 168 */,
-/* 169 */,
-/* 170 */
+/* 168 */
 /*!********************************************************!*\
   !*** /Users/wugj/dev/code/js/logoDemo/static/logo.png ***!
   \********************************************************/
@@ -18387,6 +18385,8 @@ platform;exports.default = _default;
 module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAYAAAEi6oPRAAAKQ2lDQ1BJQ0MgcHJvZmlsZQAAeNqdU3dYk/cWPt/3ZQ9WQtjwsZdsgQAiI6wIyBBZohCSAGGEEBJAxYWIClYUFRGcSFXEgtUKSJ2I4qAouGdBiohai1VcOO4f3Ke1fXrv7e371/u855zn/M55zw+AERImkeaiagA5UoU8Otgfj09IxMm9gAIVSOAEIBDmy8JnBcUAAPADeXh+dLA//AGvbwACAHDVLiQSx+H/g7pQJlcAIJEA4CIS5wsBkFIAyC5UyBQAyBgAsFOzZAoAlAAAbHl8QiIAqg0A7PRJPgUA2KmT3BcA2KIcqQgAjQEAmShHJAJAuwBgVYFSLALAwgCgrEAiLgTArgGAWbYyRwKAvQUAdo5YkA9AYACAmUIszAAgOAIAQx4TzQMgTAOgMNK/4KlfcIW4SAEAwMuVzZdL0jMUuJXQGnfy8ODiIeLCbLFCYRcpEGYJ5CKcl5sjE0jnA0zODAAAGvnRwf44P5Dn5uTh5mbnbO/0xaL+a/BvIj4h8d/+vIwCBAAQTs/v2l/l5dYDcMcBsHW/a6lbANpWAGjf+V0z2wmgWgrQevmLeTj8QB6eoVDIPB0cCgsL7SViob0w44s+/zPhb+CLfvb8QB7+23rwAHGaQJmtwKOD/XFhbnauUo7nywRCMW735yP+x4V//Y4p0eI0sVwsFYrxWIm4UCJNx3m5UpFEIcmV4hLpfzLxH5b9CZN3DQCshk/ATrYHtctswH7uAQKLDljSdgBAfvMtjBoLkQAQZzQyefcAAJO/+Y9AKwEAzZek4wAAvOgYXKiUF0zGCAAARKCBKrBBBwzBFKzADpzBHbzAFwJhBkRADCTAPBBCBuSAHAqhGJZBGVTAOtgEtbADGqARmuEQtMExOA3n4BJcgetwFwZgGJ7CGLyGCQRByAgTYSE6iBFijtgizggXmY4EImFINJKApCDpiBRRIsXIcqQCqUJqkV1II/ItchQ5jVxA+pDbyCAyivyKvEcxlIGyUQPUAnVAuagfGorGoHPRdDQPXYCWomvRGrQePYC2oqfRS+h1dAB9io5jgNExDmaM2WFcjIdFYIlYGibHFmPlWDVWjzVjHVg3dhUbwJ5h7wgkAouAE+wIXoQQwmyCkJBHWExYQ6gl7CO0EroIVwmDhDHCJyKTqE+0JXoS+cR4YjqxkFhGrCbuIR4hniVeJw4TX5NIJA7JkuROCiElkDJJC0lrSNtILaRTpD7SEGmcTCbrkG3J3uQIsoCsIJeRt5APkE+S+8nD5LcUOsWI4kwJoiRSpJQSSjVlP+UEpZ8yQpmgqlHNqZ7UCKqIOp9aSW2gdlAvU4epEzR1miXNmxZDy6Qto9XQmmlnafdoL+l0ugndgx5Fl9CX0mvoB+nn6YP0dwwNhg2Dx0hiKBlrGXsZpxi3GS+ZTKYF05eZyFQw1zIbmWeYD5hvVVgq9ip8FZHKEpU6lVaVfpXnqlRVc1U/1XmqC1SrVQ+rXlZ9pkZVs1DjqQnUFqvVqR1Vu6k2rs5Sd1KPUM9RX6O+X/2C+mMNsoaFRqCGSKNUY7fGGY0hFsYyZfFYQtZyVgPrLGuYTWJbsvnsTHYF+xt2L3tMU0NzqmasZpFmneZxzQEOxrHg8DnZnErOIc4NznstAy0/LbHWaq1mrX6tN9p62r7aYu1y7Rbt69rvdXCdQJ0snfU6bTr3dQm6NrpRuoW623XP6j7TY+t56Qn1yvUO6d3RR/Vt9KP1F+rv1u/RHzcwNAg2kBlsMThj8MyQY+hrmGm40fCE4agRy2i6kcRoo9FJoye4Ju6HZ+M1eBc+ZqxvHGKsNN5l3Gs8YWJpMtukxKTF5L4pzZRrmma60bTTdMzMyCzcrNisyeyOOdWca55hvtm82/yNhaVFnMVKizaLx5balnzLBZZNlvesmFY+VnlW9VbXrEnWXOss623WV2xQG1ebDJs6m8u2qK2brcR2m23fFOIUjynSKfVTbtox7PzsCuya7AbtOfZh9iX2bfbPHcwcEh3WO3Q7fHJ0dcx2bHC866ThNMOpxKnD6VdnG2ehc53zNRemS5DLEpd2lxdTbaeKp26fesuV5RruutK10/Wjm7ub3K3ZbdTdzD3Ffav7TS6bG8ldwz3vQfTw91jicczjnaebp8LzkOcvXnZeWV77vR5Ps5wmntYwbcjbxFvgvct7YDo+PWX6zukDPsY+Ap96n4e+pr4i3z2+I37Wfpl+B/ye+zv6y/2P+L/hefIW8U4FYAHBAeUBvYEagbMDawMfBJkEpQc1BY0FuwYvDD4VQgwJDVkfcpNvwBfyG/ljM9xnLJrRFcoInRVaG/owzCZMHtYRjobPCN8Qfm+m+UzpzLYIiOBHbIi4H2kZmRf5fRQpKjKqLupRtFN0cXT3LNas5Fn7Z72O8Y+pjLk722q2cnZnrGpsUmxj7Ju4gLiquIF4h/hF8ZcSdBMkCe2J5MTYxD2J43MC52yaM5zkmlSWdGOu5dyiuRfm6c7Lnnc8WTVZkHw4hZgSl7I/5YMgQlAvGE/lp25NHRPyhJuFT0W+oo2iUbG3uEo8kuadVpX2ON07fUP6aIZPRnXGMwlPUit5kRmSuSPzTVZE1t6sz9lx2S05lJyUnKNSDWmWtCvXMLcot09mKyuTDeR55m3KG5OHyvfkI/lz89sVbIVM0aO0Uq5QDhZML6greFsYW3i4SL1IWtQz32b+6vkjC4IWfL2QsFC4sLPYuHhZ8eAiv0W7FiOLUxd3LjFdUrpkeGnw0n3LaMuylv1Q4lhSVfJqedzyjlKD0qWlQyuCVzSVqZTJy26u9Fq5YxVhlWRV72qX1VtWfyoXlV+scKyorviwRrjm4ldOX9V89Xlt2treSrfK7etI66Trbqz3Wb+vSr1qQdXQhvANrRvxjeUbX21K3nShemr1js20zcrNAzVhNe1bzLas2/KhNqP2ep1/XctW/a2rt77ZJtrWv913e/MOgx0VO97vlOy8tSt4V2u9RX31btLugt2PGmIbur/mft24R3dPxZ6Pe6V7B/ZF7+tqdG9s3K+/v7IJbVI2jR5IOnDlm4Bv2pvtmne1cFoqDsJB5cEn36Z8e+NQ6KHOw9zDzd+Zf7f1COtIeSvSOr91rC2jbaA9ob3v6IyjnR1eHUe+t/9+7zHjY3XHNY9XnqCdKD3x+eSCk+OnZKeenU4/PdSZ3Hn3TPyZa11RXb1nQ8+ePxd07ky3X/fJ897nj13wvHD0Ivdi2yW3S609rj1HfnD94UivW2/rZffL7Vc8rnT0Tes70e/Tf/pqwNVz1/jXLl2feb3vxuwbt24m3Ry4Jbr1+Hb27Rd3Cu5M3F16j3iv/L7a/eoH+g/qf7T+sWXAbeD4YMBgz8NZD+8OCYee/pT/04fh0kfMR9UjRiONj50fHxsNGr3yZM6T4aeypxPPyn5W/3nrc6vn3/3i+0vPWPzY8Av5i8+/rnmp83Lvq6mvOscjxx+8znk98ab8rc7bfe+477rfx70fmSj8QP5Q89H6Y8en0E/3Pud8/vwv94Tz+4A5JREAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAADKmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxMzIgNzkuMTU5Mjg0LCAyMDE2LzA0LzE5LTEzOjEzOjQwICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtbG5zOnhtcD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpGRkE0MjcxNTdEQzYxMUU4QkZBOERDOEVCQ0U0NTBGMSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpGRkE0MjcxNDdEQzYxMUU4QkZBOERDOEVCQ0U0NTBGMSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxNS41IChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QkE4RkFCN0M3REM1MTFFOEJGQThEQzhFQkNFNDUwRjEiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QkE4RkFCN0Q3REM1MTFFOEJGQThEQzhFQkNFNDUwRjEiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz5BZZ+3AAAB1ElEQVR42mJkAALtmZb/GfAAJkIKwIoYiAA4FV1JO0Ylk0hWxILLHTgV6cyywqoIIIAYiQinb8S4iYs036E7esgEJq6ABAGAACImMBmo5m6yDcLlR5gcNnnaumhADWIhJoOTbRC+9ILPa9+o4TWAAAIlyDVAOphCc1SYqGAICNwZxumIidi8NILz2qhBdCyPaOcicgq1wRnYAAFErRKSgZo+GzSOoWpQD1sHsRCjCDnzkpp90DM+If2jUTbqoFEHjZZDpJYroyFESeNmNFHTykEqg8g9bwACCNRiVAYyLgEx1wA7Zu3V9OMhVBt1opajBlsaCh7NZaMOGnXQgFeupHZjKO1CjUbZqINGHTTqoFEHjTpo1EGjDhqMgw342kejUTaahggpoOdg1WiUjTpoODoIvL7tzSBykB5AgPbtGIdBGIYCaBR16swROEQvzT06cxjm1lRFDC0LcpXC+xJzpIdJhOW8e4z359MVWSde1C32xRYasC0mCmascDZzrQz+7NgABAgQINnRY/iUrb5D9v9l9toqCBAgQIAAAQIESAABAgQIEKCD5ZK9QPaMigoCdIJP7NdjOyoIECBAgGQBGjB8zVDjam153T0OqInJbBAWfdg8AExKZVcA71uIAAAAAElFTkSuQmCC"
 
 /***/ }),
+/* 169 */,
+/* 170 */,
 /* 171 */,
 /* 172 */,
 /* 173 */,
@@ -18396,386 +18396,92 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAYAAAEi
 /* 177 */,
 /* 178 */,
 /* 179 */,
-/* 180 */
-/*!****************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/components/u-tag/props.js ***!
-  \****************************************************************************************/
+/* 180 */,
+/* 181 */
+/*!*****************************************************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/components/u-rate/props.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 /* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _default = {
   props: {
-    // 标签类型info、primary、success、warning、error
-    type: {
-      type: String,
-      default: uni.$u.props.tag.type },
+    // 用于v-model双向绑定选中的星星数量
+    value: {
+      type: [String, Number],
+      default: uni.$u.props.rate.value },
 
-    // 不可用
+    // 要显示的星星数量
+    count: {
+      type: [String, Number],
+      default: uni.$u.props.rate.count },
+
+    // 是否不可选中
     disabled: {
-      type: [Boolean, String],
-      default: uni.$u.props.tag.disabled },
+      type: Boolean,
+      default: uni.$u.props.rate.disabled },
 
-    // 标签的大小，large，medium，mini
+    // 是否只读
+    readonly: {
+      type: Boolean,
+      default: uni.$u.props.rate.readonly },
+
+    // 星星的大小，单位px
     size: {
-      type: String,
-      default: uni.$u.props.tag.size },
-
-    // tag的形状，circle（两边半圆形）, square（方形，带圆角）
-    shape: {
-      type: String,
-      default: uni.$u.props.tag.shape },
-
-    // 标签文字
-    text: {
       type: [String, Number],
-      default: uni.$u.props.tag.text },
+      default: uni.$u.props.rate.size },
 
-    // 背景颜色，默认为空字符串，即不处理
-    bgColor: {
+    // 未选中时的颜色
+    inactiveColor: {
       type: String,
-      default: uni.$u.props.tag.bgColor },
+      default: uni.$u.props.rate.inactiveColor },
 
-    // 标签字体颜色，默认为空字符串，即不处理
-    color: {
+    // 选中的颜色
+    activeColor: {
       type: String,
-      default: uni.$u.props.tag.color },
+      default: uni.$u.props.rate.activeColor },
 
-    // 标签的边框颜色
-    borderColor: {
-      type: String,
-      default: uni.$u.props.tag.borderColor },
-
-    // 关闭按钮图标的颜色
-    closeColor: {
-      type: String,
-      default: uni.$u.props.tag.closeColor },
-
-    // 点击时返回的索引值，用于区分例遍的数组哪个元素被点击了
-    name: {
+    // 星星之间的间距，单位px
+    gutter: {
       type: [String, Number],
-      default: uni.$u.props.tag.name },
+      default: uni.$u.props.rate.gutter },
 
-    // // 模式选择，dark|light|plain
-    // mode: {
-    // 	type: String,
-    // 	default: 'light'
-    // },
-    // 镂空时是否填充背景色
-    plainFill: {
+    // 最少能选择的星星个数
+    minCount: {
+      type: [String, Number],
+      default: uni.$u.props.rate.minCount },
+
+    // 是否允许半星
+    allowHalf: {
       type: Boolean,
-      default: uni.$u.props.tag.plainFill },
+      default: uni.$u.props.rate.allowHalf },
 
-    // 是否镂空
-    plain: {
-      type: Boolean,
-      default: uni.$u.props.tag.plain },
-
-    // 是否可关闭
-    closable: {
-      type: Boolean,
-      default: uni.$u.props.tag.closable },
-
-    // 是否显示
-    show: {
-      type: Boolean,
-      default: uni.$u.props.tag.show },
-
-    // 内置图标，或绝对路径的图片
-    icon: {
+    // 选中时的图标(星星)
+    activeIcon: {
       type: String,
-      default: uni.$u.props.tag.icon } } };exports.default = _default;
+      default: uni.$u.props.rate.activeIcon },
+
+    // 未选中时的图标(星星)
+    inactiveIcon: {
+      type: String,
+      default: uni.$u.props.rate.inactiveIcon },
+
+    // 是否可以通过滑动手势选择评分
+    touchable: {
+      type: Boolean,
+      default: uni.$u.props.rate.touchable } } };exports.default = _default;
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
-/* 181 */,
 /* 182 */,
 /* 183 */,
 /* 184 */,
 /* 185 */,
 /* 186 */,
 /* 187 */,
-/* 188 */
-/*!***********************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/components/u-transition/props.js ***!
-  \***********************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-/* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _default = {
-  props: {
-    // 是否展示组件
-    show: {
-      type: Boolean,
-      default: uni.$u.props.transition.show },
-
-    // 使用的动画模式
-    mode: {
-      type: String,
-      default: uni.$u.props.transition.mode },
-
-    // 动画的执行时间，单位ms
-    duration: {
-      type: [String, Number],
-      default: uni.$u.props.transition.duration },
-
-    // 使用的动画过渡函数
-    timingFunction: {
-      type: String,
-      default: uni.$u.props.transition.timingFunction } } };exports.default = _default;
-/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
-
-/***/ }),
+/* 188 */,
 /* 189 */
-/*!****************************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/components/u-transition/transition.js ***!
-  \****************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _regenerator = _interopRequireDefault(__webpack_require__(/*! ./node_modules/@babel/runtime/regenerator */ 34));
-
-
-var _nvueAniMap = _interopRequireDefault(__webpack_require__(/*! ./nvue.ani-map.js */ 190));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}function asyncGeneratorStep(gen, resolve, reject, _next, _throw, key, arg) {try {var info = gen[key](arg);var value = info.value;} catch (error) {reject(error);return;}if (info.done) {resolve(value);} else {Promise.resolve(value).then(_next, _throw);}}function _asyncToGenerator(fn) {return function () {var self = this,args = arguments;return new Promise(function (resolve, reject) {var gen = fn.apply(self, args);function _next(value) {asyncGeneratorStep(gen, resolve, reject, _next, _throw, "next", value);}function _throw(err) {asyncGeneratorStep(gen, resolve, reject, _next, _throw, "throw", err);}_next(undefined);});};} // 定义一个一定时间后自动成功的promise，让调用nextTick方法处，进入下一个then方法
-var nextTick = function nextTick() {return new Promise(function (resolve) {return setTimeout(resolve, 1000 / 50);});}; // nvue动画模块实现细节抽离在外部文件
-
-// 定义类名，通过给元素动态切换类名，赋予元素一定的css动画样式
-var getClassNames = function getClassNames(name) {return {
-    enter: "u-".concat(name, "-enter u-").concat(name, "-enter-active"),
-    'enter-to': "u-".concat(name, "-enter-to u-").concat(name, "-enter-active"),
-    leave: "u-".concat(name, "-leave u-").concat(name, "-leave-active"),
-    'leave-to': "u-".concat(name, "-leave-to u-").concat(name, "-leave-active") };};var _default =
-
-
-
-
-
-
-
-
-
-
-{
-  methods: {
-    // 组件被点击发出事件
-    clickHandler: function clickHandler() {
-      this.$emit('click');
-    },
-
-    // vue版本的组件进场处理
-    vueEnter: function vueEnter() {var _this = this;
-      // 动画进入时的类名
-      var classNames = getClassNames(this.mode);
-      // 定义状态和发出动画进入前事件
-      this.status = 'enter';
-      this.$emit('beforeEnter');
-      this.inited = true;
-      this.display = true;
-      this.classes = classNames.enter;
-      this.$nextTick( /*#__PURE__*/_asyncToGenerator( /*#__PURE__*/_regenerator.default.mark(function _callee() {return _regenerator.default.wrap(function _callee$(_context) {while (1) {switch (_context.prev = _context.next) {case 0:
-
-
-
-                // 标识动画尚未结束
-                _this.$emit('enter');
-                _this.transitionEnded = false;
-                // 组件动画进入后触发的事件
-                _this.$emit('afterEnter');
-                // 赋予组件enter-to类名
-                _this.classes = classNames['enter-to'];case 4:case "end":return _context.stop();}}}, _callee);})));
-
-    },
-    // 动画离场处理
-    vueLeave: function vueLeave() {var _this2 = this;
-      // 如果不是展示状态，无需执行逻辑
-      if (!this.display) return;
-      var classNames = getClassNames(this.mode);
-      // 标记离开状态和发出事件
-      this.status = 'leave';
-      this.$emit('beforeLeave');
-      // 获得类名
-      this.classes = classNames.leave;
-
-      this.$nextTick(function () {
-        // 动画正在离场的状态
-        _this2.transitionEnded = false;
-        _this2.$emit('leave');
-        // 组件执行动画，到了执行的执行时间后，执行一些额外处理
-        setTimeout(_this2.onTransitionEnd, _this2.duration);
-        _this2.classes = classNames['leave-to'];
-      });
-    },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    // 完成过渡后触发
-    onTransitionEnd: function onTransitionEnd() {
-      // 如果已经是结束的状态，无需再处理
-      if (this.transitionEnded) return;
-      this.transitionEnded = true;
-      // 发出组件动画执行后的事件
-      this.$emit(this.status === 'leave' ? 'afterLeave' : 'afterEnter');
-      if (!this.show && this.display) {
-        this.display = false;
-        this.inited = false;
-      }
-    } } };exports.default = _default;
-
-/***/ }),
-/* 190 */
-/*!******************************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/components/u-transition/nvue.ani-map.js ***!
-  \******************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _default = {
-  fade: {
-    enter: { opacity: 0 },
-    'enter-to': { opacity: 1 },
-    leave: { opacity: 1 },
-    'leave-to': { opacity: 0 } },
-
-  'fade-up': {
-    enter: { opacity: 0, transform: 'translateY(100%)' },
-    'enter-to': { opacity: 1, transform: 'translateY(0)' },
-    leave: { opacity: 1, transform: 'translateY(0)' },
-    'leave-to': { opacity: 0, transform: 'translateY(100%)' } },
-
-  'fade-down': {
-    enter: { opacity: 0, transform: 'translateY(-100%)' },
-    'enter-to': { opacity: 1, transform: 'translateY(0)' },
-    leave: { opacity: 1, transform: 'translateY(0)' },
-    'leave-to': { opacity: 0, transform: 'translateY(-100%)' } },
-
-  'fade-left': {
-    enter: { opacity: 0, transform: 'translateX(-100%)' },
-    'enter-to': { opacity: 1, transform: 'translateY(0)' },
-    leave: { opacity: 1, transform: 'translateY(0)' },
-    'leave-to': { opacity: 0, transform: 'translateX(-100%)' } },
-
-  'fade-right': {
-    enter: { opacity: 0, transform: 'translateX(100%)' },
-    'enter-to': { opacity: 1, transform: 'translateY(0)' },
-    leave: { opacity: 1, transform: 'translateY(0)' },
-    'leave-to': { opacity: 0, transform: 'translateX(100%)' } },
-
-  'slide-up': {
-    enter: { transform: 'translateY(100%)' },
-    'enter-to': { transform: 'translateY(0)' },
-    leave: { transform: 'translateY(0)' },
-    'leave-to': { transform: 'translateY(100%)' } },
-
-  'slide-down': {
-    enter: { transform: 'translateY(-100%)' },
-    'enter-to': { transform: 'translateY(0)' },
-    leave: { transform: 'translateY(0)' },
-    'leave-to': { transform: 'translateY(-100%)' } },
-
-  'slide-left': {
-    enter: { transform: 'translateX(-100%)' },
-    'enter-to': { transform: 'translateY(0)' },
-    leave: { transform: 'translateY(0)' },
-    'leave-to': { transform: 'translateX(-100%)' } },
-
-  'slide-right': {
-    enter: { transform: 'translateX(100%)' },
-    'enter-to': { transform: 'translateY(0)' },
-    leave: { transform: 'translateY(0)' },
-    'leave-to': { transform: 'translateX(100%)' } },
-
-  zoom: {
-    enter: { transform: 'scale(0.95)' },
-    'enter-to': { transform: 'scale(1)' },
-    leave: { transform: 'scale(1)' },
-    'leave-to': { transform: 'scale(0.95)' } },
-
-  'fade-zoom': {
-    enter: { opacity: 0, transform: 'scale(0.95)' },
-    'enter-to': { opacity: 1, transform: 'scale(1)' },
-    leave: { opacity: 1, transform: 'scale(1)' },
-    'leave-to': { opacity: 0, transform: 'scale(0.95)' } } };exports.default = _default;
-
-/***/ }),
-/* 191 */,
-/* 192 */,
-/* 193 */,
-/* 194 */,
-/* 195 */,
-/* 196 */,
-/* 197 */,
-/* 198 */
 /*!*****************************************************************************************!*\
   !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/components/u-icon/icons.js ***!
   \*****************************************************************************************/
@@ -18998,7 +18704,7 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
   'uicon-en': "\uE692" };exports.default = _default;
 
 /***/ }),
-/* 199 */
+/* 190 */
 /*!*****************************************************************************************!*\
   !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/components/u-icon/props.js ***!
   \*****************************************************************************************/
@@ -19095,94 +18801,31 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
+/* 191 */,
+/* 192 */,
+/* 193 */,
+/* 194 */,
+/* 195 */,
+/* 196 */,
+/* 197 */,
+/* 198 */,
+/* 199 */,
 /* 200 */,
 /* 201 */,
 /* 202 */,
 /* 203 */,
 /* 204 */,
-/* 205 */,
-/* 206 */,
-/* 207 */,
-/* 208 */,
-/* 209 */,
-/* 210 */,
-/* 211 */,
-/* 212 */,
-/* 213 */
-/*!*****************************************************************************************!*\
-  !*** /Users/wugj/dev/code/js/logoDemo/node_modules/uview-ui/components/u-rate/props.js ***!
-  \*****************************************************************************************/
+/* 205 */
+/*!*******************************************************!*\
+  !*** /Users/wugj/dev/code/js/logoDemo/bus/testBus.js ***!
+  \*******************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-/* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _default = {
-  props: {
-    // 用于v-model双向绑定选中的星星数量
-    value: {
-      type: [String, Number],
-      default: uni.$u.props.rate.value },
-
-    // 要显示的星星数量
-    count: {
-      type: [String, Number],
-      default: uni.$u.props.rate.count },
-
-    // 是否不可选中
-    disabled: {
-      type: Boolean,
-      default: uni.$u.props.rate.disabled },
-
-    // 是否只读
-    readonly: {
-      type: Boolean,
-      default: uni.$u.props.rate.readonly },
-
-    // 星星的大小，单位px
-    size: {
-      type: [String, Number],
-      default: uni.$u.props.rate.size },
-
-    // 未选中时的颜色
-    inactiveColor: {
-      type: String,
-      default: uni.$u.props.rate.inactiveColor },
-
-    // 选中的颜色
-    activeColor: {
-      type: String,
-      default: uni.$u.props.rate.activeColor },
-
-    // 星星之间的间距，单位px
-    gutter: {
-      type: [String, Number],
-      default: uni.$u.props.rate.gutter },
-
-    // 最少能选择的星星个数
-    minCount: {
-      type: [String, Number],
-      default: uni.$u.props.rate.minCount },
-
-    // 是否允许半星
-    allowHalf: {
-      type: Boolean,
-      default: uni.$u.props.rate.allowHalf },
-
-    // 选中时的图标(星星)
-    activeIcon: {
-      type: String,
-      default: uni.$u.props.rate.activeIcon },
-
-    // 未选中时的图标(星星)
-    inactiveIcon: {
-      type: String,
-      default: uni.$u.props.rate.inactiveIcon },
-
-    // 是否可以通过滑动手势选择评分
-    touchable: {
-      type: Boolean,
-      default: uni.$u.props.rate.touchable } } };exports.default = _default;
-/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
+Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _vue = _interopRequireDefault(__webpack_require__(/*! vue */ 4));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
+var bus = new _vue.default();var _default =
+bus;exports.default = _default;
 
 /***/ })
 ]]);

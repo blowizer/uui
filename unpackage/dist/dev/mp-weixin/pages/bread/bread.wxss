@@ -4369,4 +4369,9 @@ scroll-view.cu-steps .cu-item {
 /* 垂直间距 */
 /* 透明度 */
 /* 文章场景相关 */
+.caomei {
+  width: 100px;
+  height: 200px;
+  font-size: #ffffff;
+}
 

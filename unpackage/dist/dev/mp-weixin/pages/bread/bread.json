@@ -3,6 +3,7 @@
   "enablePullDownRefresh": false,
   "usingComponents": {
     "u-tag": "/node-modules/uview-ui/components/u-tag/u-tag",
-    "u-rate": "/node-modules/uview-ui/components/u-rate/u-rate"
+    "u-rate": "/node-modules/uview-ui/components/u-rate/u-rate",
+    "my-comp": "/components/test-my-comp"
   }
 }

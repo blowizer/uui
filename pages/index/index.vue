@@ -26,6 +26,7 @@
 </template>
 
 <script>
+	import testBus from '../../bus/testBus.js'
 	export default {
 		data() {
 			return {
@@ -33,7 +34,10 @@
 			}
 		},
 		onLoad() {
-
+			console.log('home page on load')
+			testBus.$on('sendData', (data)=> {
+				console.log(data)
+			})
 		},
 		methods: {
 
