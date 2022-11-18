@@ -5,7 +5,8 @@
     "pages/bread/bread",
     "pages/food/food",
     "pages/person/person",
-    "pages/detail/detail"
+    "pages/detail/detail",
+    "pages/login/login"
   ],
   "subPackages": [],
   "window": {
@@ -21,7 +22,7 @@
       {
         "text": "home",
         "pagePath": "pages/index/index",
-        "iconPath": "static/logo.png",
+        "iconPath": "static/home.png",
         "selectedIconPath": "static/home.png"
       },
       {
@@ -45,6 +46,8 @@
     ]
   },
   "usingComponents": {
-    "test-my-comp": "/components/test-my-comp"
+    "test-my-comp": "/components/test-my-comp",
+    "nav-custom": "/components/nav-custom",
+    "home-title": "/components/home-title"
   }
 }

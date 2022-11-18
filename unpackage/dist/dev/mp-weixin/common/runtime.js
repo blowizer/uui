@@ -105,11 +105,11 @@
 /******/
 /******/
 /******/ 		// mini-css-extract-plugin CSS loading
-/******/ 		var cssChunks = {"node-modules/uview-ui/components/u-rate/u-rate":1,"node-modules/uview-ui/components/u-tag/u-tag":1,"node-modules/uview-ui/components/u-icon/u-icon":1,"node-modules/uview-ui/components/u-transition/u-transition":1};
+/******/ 		var cssChunks = {"components/home-title":1,"node-modules/uview-ui/components/u-rate/u-rate":1,"node-modules/uview-ui/components/u-tag/u-tag":1,"node-modules/uview-ui/components/u-line/u-line":1,"node-modules/uview-ui/components/u-icon/u-icon":1,"node-modules/uview-ui/components/u-transition/u-transition":1};
 /******/ 		if(installedCssChunks[chunkId]) promises.push(installedCssChunks[chunkId]);
 /******/ 		else if(installedCssChunks[chunkId] !== 0 && cssChunks[chunkId]) {
 /******/ 			promises.push(installedCssChunks[chunkId] = new Promise(function(resolve, reject) {
-/******/ 				var href = "" + ({"components/test-my-comp":"components/test-my-comp","node-modules/uview-ui/components/u-rate/u-rate":"node-modules/uview-ui/components/u-rate/u-rate","node-modules/uview-ui/components/u-tag/u-tag":"node-modules/uview-ui/components/u-tag/u-tag","node-modules/uview-ui/components/u-icon/u-icon":"node-modules/uview-ui/components/u-icon/u-icon","node-modules/uview-ui/components/u-transition/u-transition":"node-modules/uview-ui/components/u-transition/u-transition"}[chunkId]||chunkId) + ".wxss";
+/******/ 				var href = "" + ({"components/home-title":"components/home-title","components/nav-custom":"components/nav-custom","components/test-my-comp":"components/test-my-comp","node-modules/uview-ui/components/u-rate/u-rate":"node-modules/uview-ui/components/u-rate/u-rate","node-modules/uview-ui/components/u-tag/u-tag":"node-modules/uview-ui/components/u-tag/u-tag","node-modules/uview-ui/components/u-line/u-line":"node-modules/uview-ui/components/u-line/u-line","node-modules/uview-ui/components/u-icon/u-icon":"node-modules/uview-ui/components/u-icon/u-icon","node-modules/uview-ui/components/u-transition/u-transition":"node-modules/uview-ui/components/u-transition/u-transition"}[chunkId]||chunkId) + ".wxss";
 /******/ 				var fullhref = __webpack_require__.p + href;
 /******/ 				var existingLinkTags = document.getElementsByTagName("link");
 /******/ 				for(var i = 0; i < existingLinkTags.length; i++) {

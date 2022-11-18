@@ -58,6 +58,16 @@
             }
             
         }
+        ,{
+            "path" : "pages/login/login",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+     
     ],
 	"globalStyle": {
 		//"navigationStyle": "custom",
@@ -73,7 +83,7 @@
 			{
 				"text":"home",
 				"pagePath": "pages/index/index",
-				"iconPath": "static/logo.png",
+				"iconPath": "static/home.png",
 				"selectedIconPath": "static/home.png"
 				
 			},

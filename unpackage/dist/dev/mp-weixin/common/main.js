@@ -15,9 +15,13 @@ var _App = _interopRequireDefault(__webpack_require__(/*! ./App */ 6));
 var _vue = _interopRequireDefault(__webpack_require__(/*! vue */ 4));
 
 var _uviewUi = _interopRequireDefault(__webpack_require__(/*! uview-ui */ 12));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}function ownKeys(object, enumerableOnly) {var keys = Object.keys(object);if (Object.getOwnPropertySymbols) {var symbols = Object.getOwnPropertySymbols(object);if (enumerableOnly) symbols = symbols.filter(function (sym) {return Object.getOwnPropertyDescriptor(object, sym).enumerable;});keys.push.apply(keys, symbols);}return keys;}function _objectSpread(target) {for (var i = 1; i < arguments.length; i++) {var source = arguments[i] != null ? arguments[i] : {};if (i % 2) {ownKeys(Object(source), true).forEach(function (key) {_defineProperty(target, key, source[key]);});} else if (Object.getOwnPropertyDescriptors) {Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));} else {ownKeys(Object(source)).forEach(function (key) {Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));});}}return target;}function _defineProperty(obj, key, value) {if (key in obj) {Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true });} else {obj[key] = value;}return obj;} // @ts-ignore
-wx.__webpack_require_UNI_MP_PLUGIN__ = __webpack_require__;_vue.default.use(_uviewUi.default);var myComp = function myComp() {__webpack_require__.e(/*! require.ensure | components/test-my-comp */ "components/test-my-comp").then((function () {return resolve(__webpack_require__(/*! components/test-my-comp.vue */ 181));}).bind(null, __webpack_require__)).catch(__webpack_require__.oe);};
+wx.__webpack_require_UNI_MP_PLUGIN__ = __webpack_require__;_vue.default.use(_uviewUi.default);var myComp = function myComp() {__webpack_require__.e(/*! require.ensure | components/test-my-comp */ "components/test-my-comp").then((function () {return resolve(__webpack_require__(/*! components/test-my-comp.vue */ 225));}).bind(null, __webpack_require__)).catch(__webpack_require__.oe);};
 
-_vue.default.component('test-my-comp', myComp);
+_vue.default.component('test-my-comp', myComp);var NavCustom = function NavCustom() {__webpack_require__.e(/*! require.ensure | components/nav-custom */ "components/nav-custom").then((function () {return resolve(__webpack_require__(/*! components/nav-custom.vue */ 237));}).bind(null, __webpack_require__)).catch(__webpack_require__.oe);};
+
+_vue.default.component('nav-custom', NavCustom);var HomeTitle = function HomeTitle() {__webpack_require__.e(/*! require.ensure | components/home-title */ "components/home-title").then((function () {return resolve(__webpack_require__(/*! components/home-title.vue */ 260));}).bind(null, __webpack_require__)).catch(__webpack_require__.oe);};
+
+_vue.default.component('home-title', HomeTitle);
 _vue.default.config.productionTip = false;
 _App.default.mpType = 'app';
 var app = new _vue.default(_objectSpread({},

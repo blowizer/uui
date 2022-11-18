@@ -4320,6 +4320,127 @@ scroll-view.cu-steps .cu-item {
 .icon-zhuye1:before {
   content: "\e60c";
 }
+@font-face {
+  font-family: 'iconfont';  /* project id 3110505 */
+  src: url('');
+  src: url('#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_3110505_2ubos4djws8.woff2') format('woff2'),
+  url('//at.alicdn.com/t/font_3110505_2ubos4djws8.woff') format('woff'),
+  url('//at.alicdn.com/t/font_3110505_2ubos4djws8.ttf') format('truetype'),
+  url('#iconfont') format('svg');
+}
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-dingwei3:before {
+  content: "\e8c5";
+}
+.icon-xiala:before {
+  content: "\e6b9";
+}
+.icon-jifen:before {
+  content: "\e897";
+}
+.icon-ziliaoshouce:before {
+  content: "\e898";
+}
+.icon-youhuijuan:before {
+  content: "\e899";
+}
+.icon-danju:before {
+  content: "\e89b";
+}
+.icon-chuangjiandanju:before {
+  content: "\e89d";
+}
+.icon-tijikongjian:before {
+  content: "\e89f";
+}
+.icon-caiwu:before {
+  content: "\e8ae";
+}
+.icon-fanhuijiantouxiangqingye:before {
+  content: "\e8de";
+}
+.icon-yinhangqia:before {
+  content: "\e936";
+}
+.icon-yk_yuanquan_fill:before {
+  content: "\e602";
+}
+.icon-vip-fill:before {
+  content: "\e78f";
+}
+.icon-weizhi:before {
+  content: "\e600";
+}
+.icon-mima:before {
+  content: "\e620";
+}
+.icon-shouji:before {
+  content: "\e6c7";
+}
+.icon-sousuo:before {
+  content: "\e693";
+}
+.icon-canju:before {
+  content: "\e66f";
+}
+.icon-dingwei:before {
+  content: "\e644";
+}
+.icon-qiehuanzhanghao:before {
+  content: "\e618";
+}
+.icon-tubiao_fanhuidingbu:before {
+  content: "\e612";
+}
+.icon-huodong:before {
+  content: "\e605";
+}
+.icon-gerenzhongxin:before {
+  content: "\e60b";
+}
+.icon-gengduo-shuxiang:before {
+  content: "\e8c4";
+}
+.icon-huodong1:before {
+  content: "\e63e";
+}
+.icon-gengduo:before {
+  content: "\e63d";
+}
+.icon-cake:before {
+  content: "\e6fa";
+}
+.icon-jiantou_zuoyouqiehuan:before {
+  content: "\eb0d";
+}
+.icon-gouwuche:before {
+  content: "\e606";
+}
+.icon-24gl-cartFull10:before {
+  content: "\e87b";
+}
+.icon-dingwei1:before {
+  content: "\e616";
+}
+.icon-dingwei2:before {
+  content: "\e603";
+}
+.icon-gouxuan:before {
+  content: "\e61d";
+}
+.icon-meiyoushuju:before {
+  content: "\e60c";
+}
+.icon-bianji:before {
+  content: "\e65a";
+}
 .fs-14 {
   font-size: 14rpx !important;
 }
@@ -4369,65 +4490,14 @@ scroll-view.cu-steps .cu-item {
 /* 垂直间距 */
 /* 透明度 */
 /* 文章场景相关 */
-.content {
-  background: #377EB4;
-  width: 100vw;
-  height: 100vh;
+.banner {
+  height: 500rpx;
 }
-.avatarWrapper {
-  height: 30vh;
-  width: 100vw;
-  display: flex;
-  justify-content: center;
-  align-items: flex-end;
+.banner swiper-item {
+  height: 50rpx;
 }
-.avatar {
-  width: 200rpx;
-  height: 200rpx;
-  overflow: hidden;
-}
-.avatar .img {
+.banner image {
   width: 100%;
-}
-.form {
-  padding: 0 100rpx;
-  margin-top: 80px;
-}
-.inputWrapper {
-  width: 100%;
-  height: 80rpx;
-  background-color: white;
-  border-radius: 20px;
-  box-sizing: border-box;
-  padding: 0 20px;
-  margin-top: 25px;
-}
-.inputWrapper .input {
-  width: 100%;
-  height: 100%;
-  text-align: center;
-  font-size: 15px;
-}
-.logoBtn {
-  width: 100%;
-  height: 80rpx;
-  background: #77b307;
-  border-radius: 50rpx;
-  margin-top: 50px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.logoBtn .btnVal {
-  color: white;
-}
-.forgetBtn {
-  text-align: center;
-  color: #EAF6F9;
-  font-size: 15px;
-  margin-top: 20px;
-}
-.icon-zhuye {
-  font-size: 100rpx;
+  height: 400rpx;
 }
 

@@ -7,6 +7,10 @@ import uView from 'uview-ui'
 Vue.use(uView)
 import myComp from 'components/test-my-comp.vue'
 Vue.component('test-my-comp',myComp)
+import NavCustom from 'components/nav-custom.vue'
+Vue.component('nav-custom', NavCustom)
+import HomeTitle from 'components/home-title.vue'
+Vue.component('home-title',HomeTitle)
 Vue.config.productionTip = false
 App.mpType = 'app'
 const app = new Vue({
