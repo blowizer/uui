@@ -1,6 +1,6 @@
 <template>
 	<view class="cont">
-	<view class="cake-item" v-for="(item,index) in 8" :key="index" @click="handleDetail(index)">
+	<view class="cake-item" v-for="(item,index) in 8"  @click="handleDetail(index)">
 		<view class="poster">			
 		</view>
 		<view class="info-cont">

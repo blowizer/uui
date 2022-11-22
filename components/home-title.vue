@@ -1,7 +1,7 @@
 <template>
 	<view class="padding flex justify-between align-center margin-tb-sm">
 		<view class="flex align-center">
-			<text class="iconfont icon-cake"></text>
+			<text class="iconfont icon-cake" color="red"></text>
 			<view class="fs-28 margin-left">
 				{{title}}
 				<view class="fs-20">{{enTitle}}</view>

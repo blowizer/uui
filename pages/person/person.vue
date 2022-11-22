@@ -80,7 +80,7 @@
 }
 .grid .iconfont {
 	font-size: 100upx;
-	color: #ff0000;
+	color: #f0c300;
 }
 .avatar{
 	width: 150upx;

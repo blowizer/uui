@@ -5,7 +5,7 @@
 				<text class="cuIcon-locationfill text-gray"></text> 长春
 			</view>
 			<view class="content text-bold">
-				mYFRm
+				mYFARm
 			</view>
 			<view class="action text-grey">
 				<text class="cuIcon-search"></text>
