@@ -1,15 +1,15 @@
 <template>
 	<view class="cont">
 		<view class="cake-item">
-			<view class="poster"></view>
+				<image class="poster" :src="gdata.img" mode=""></image>
 			<view class="info-cont">
 				<view class="info flex align-center  justify-between">
-					<view class="fs-28">蛋糕</view>
-					<view class="fs-16">CaoMei DanGao</view>
+					<view class="fs-28">{{gdata.name}}</view>
+					<view class="fs-16"> {{gdata.french}}</view>
 					<view class="cart-btn margin-right-sm"><text class="iconfont icon-icon_gouwuche"></text></view>
 					<view class="fs-18">
 						<text class="fs-14">¥</text>
-						250.00
+						{{gdata.price}}
 					</view>
 				</view>
 			</view>
@@ -19,8 +19,12 @@
 
 <script>
 export default {
+	name: "good-item",
+	props:['gdata'],
 	data() {
-		return {};
+		return {
+			
+		};
 	},
 	methods: {
 		handleDetail(idx) {

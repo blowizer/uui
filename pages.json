@@ -17,8 +17,9 @@
             "path" : "pages/cake/cake",
             "style" :                                                                                    
             {
-                "navigationBarTitleText": "cake",
-                "enablePullDownRefresh": false
+                "navigationBarTitleText": "蛋糕",
+				"navigationStyle": "custom",
+                "enablePullDownRefresh": true
             }
             
         }
@@ -67,7 +68,24 @@
             }
             
         }
-     
+        ,{
+            "path" : "pages/index/banner-ad",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/colletct-data/colletct-data",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
     ],
 	"globalStyle": {
 		//"navigationStyle": "custom",
@@ -76,6 +94,7 @@
 		"navigationBarBackgroundColor": "#f1f1f1",
 		"backgroundColor": "#F8F8F8"
 	},
+	/**
 	"tabBar": {
 		"color": "#d8d8d8",
 		"selectedColor": "#444",
@@ -111,6 +130,7 @@
 			
 		]
 	},
+	*/
 	"uniIdRouter": {},
 	"usingComponts": true,
 	"condition" : { //模式配置，仅开发期间生效

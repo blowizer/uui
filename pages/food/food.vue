@@ -5,7 +5,7 @@
 </template>
 
 <script>
-	
+	import testBus from '../../bus/testBus.js'
 	export default {
 		data() {
 			return {
