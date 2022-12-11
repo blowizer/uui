@@ -13,11 +13,14 @@ import HomeTitle from 'components/home-title.vue'
 Vue.component('home-title',HomeTitle)
 import GoodItem from 'components/good-item.vue'
 Vue.component('good-item',GoodItem)
+import TarCustom from 'components/tar-custom.vue'
+Vue.component('tar-custom', TarCustom)
 import * as request from './utils/request.js'
 for(let key in request){
 	Vue.prototype[key] = request[key]
 }
 import store from './store/index.js'
+
 
 Vue.config.productionTip = false
 App.mpType = 'app'

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "address",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-line": "/node-modules/uview-ui/components/u-line/u-line"
+  }
+}

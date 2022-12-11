@@ -1,6 +1,8 @@
 {
   "pages": [
     "pages/index/index",
+    "pages/user/registration",
+    "pages/user/login",
     "pages/cake/cake",
     "pages/bread/bread",
     "pages/food/food",
@@ -8,7 +10,12 @@
     "pages/detail/detail",
     "pages/login/login",
     "pages/index/banner-ad",
-    "pages/colletct-data/colletct-data"
+    "pages/colletct-data/colletct-data",
+    "pages/cart/cart",
+    "pages/address/address",
+    "pages/address/address-detail",
+    "pages/order/order",
+    "pages/request-payment/request-payment"
   ],
   "subPackages": [],
   "window": {
@@ -17,10 +24,12 @@
     "navigationBarBackgroundColor": "#f1f1f1",
     "backgroundColor": "#F8F8F8"
   },
+  "permission": {},
   "usingComponents": {
     "test-my-comp": "/components/test-my-comp",
     "nav-custom": "/components/nav-custom",
     "home-title": "/components/home-title",
-    "good-item": "/components/good-item"
+    "good-item": "/components/good-item",
+    "tar-custom": "/components/tar-custom"
   }
 }

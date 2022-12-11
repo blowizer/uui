@@ -1,5 +1,6 @@
 {
-  "navigationBarTitleText": "",
+  "navigationBarTitleText": "person",
+  "navigationStyle": "custom",
   "enablePullDownRefresh": false,
   "usingComponents": {}
 }

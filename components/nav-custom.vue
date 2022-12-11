@@ -5,13 +5,17 @@
 			长春
 		</view>
 		<view class="content text-bold">
-			blowizer
+			<tetx>blowizer</tetx>
 		</view>
-		<view class="action text-grey">
-			<text class="cuIcon-search"></text>
-			<u-line direction="col" length="15" margin="20upx"></u-line>
-			<text class="cuIcon-sort"></text>
-		</view>
+		<slot name="right"> 
+		<!-- #ifdef APP-PLUS || H5 -->
+			<view class="action text-grey">
+				<text class="cuIcon-search"></text>
+				<u-line direction="col" length="15" margin="20upx"></u-line>
+				<text class="cuIcon-sort"></text>
+			</view>
+			<!-- #endif -->
+		</slot>
 	</view>
 </template>
 

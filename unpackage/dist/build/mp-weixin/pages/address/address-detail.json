@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "address-detail",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "usingComponents": {}
+}

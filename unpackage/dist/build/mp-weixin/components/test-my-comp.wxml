@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['handleNum',['$event']]]]]}}" bindtap="__e">{{'test share components '+name+''}}</view>

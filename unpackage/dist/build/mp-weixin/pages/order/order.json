@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "order",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "usingComponents": {}
+}

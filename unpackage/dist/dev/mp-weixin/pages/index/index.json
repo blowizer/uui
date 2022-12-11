@@ -1,4 +1,6 @@
 {
+  "navigationBarTitleText": "home",
+  "enablePullDownRefresh": false,
   "navigationStyle": "custom",
   "usingComponents": {}
 }

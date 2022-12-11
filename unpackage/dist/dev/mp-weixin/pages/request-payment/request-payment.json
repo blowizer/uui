@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "request-payment",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "usingComponents": {}
+}

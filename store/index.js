@@ -1,13 +1,18 @@
-import Vue from 'vue'
+import Vue from "vue"
 import Vuex from 'vuex'
-
-Vue.use(Vuex)
-
+import count from './count.js'
 import condition from './condition.js'
+import user from './user.js'
+import cart from './cart.js'
+import address from './address.js'
+Vue.use(Vuex)
 const store = new Vuex.Store({
-		
 	modules:{
-		condition
+		count,
+		condition,
+		user,
+		cart,
+		address
 	}
 })
 export default store
